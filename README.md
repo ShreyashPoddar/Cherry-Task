@@ -1,12 +1,36 @@
-It is a a basic mobile quiz application where users can take quizzes on different topics answer multiple-choice questions, and receive their score at the end.
-There are three categories of quiz with 5 questions each.
-A very basic transition is added to traverse between different activities.
-It has a drawer layout which includes home and exit button.
-At the end of quiz, final result is declared and correct answers of all the questions are displayed.
-It also has a fancy heart button in the home screen, which gives you a cute message when pressed.
-The project was made using Android Studio.
+## QUICK QUIZ:
 
-These are some of thte screenshots taken from my app:
+It is a a basic mobile quiz application where users can take quizzes on different topics answer multiple-choice questions, and receive their score at the end.
+
+## ❤️ Try my App
+
+### Get Apk [Download here](https://github.com/ShreyashPoddar/Cherry-Task/blob/main/app-debug.apk)
+
+----------------
+
+## FEATURES:
+
+* There are three categories of quiz with 5 questions each.
+
+* A very basic transition is added to traverse between different activities.
+
+* It has a drawer layout which includes home and exit button.
+
+* At the end of quiz, final result is declared and correct answers of all the questions are displayed.
+
+* It also has a fancy heart button in the home screen, which gives you a cute message when pressed.
+
+-----------------
+
+## TECHNOLOGIES USED:
+
+* It is built using JAVA and XML.
+
+* The project was made using Android Studio.
+
+--------------------
+
+## These are some of thte screenshots taken from my app:
 
 
 ![IMG-20241005-WA0020](https://github.com/user-attachments/assets/b03ac8d1-2769-44ca-8eee-dc4d5c2829b0)
