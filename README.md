@@ -9,31 +9,30 @@ The project was made using Android Studio.
 These are some of thte screenshots taken from my app:
 
 
-
-
-![IMG-20241005-WA0025](https://github.com/user-attachments/assets/50ad357b-757c-4663-af8c-e2155e3ddfe9)
-
+![IMG-20241005-WA0020](https://github.com/user-attachments/assets/b03ac8d1-2769-44ca-8eee-dc4d5c2829b0)
 
 
 
-![IMG-20241005-WA0024](https://github.com/user-attachments/assets/9eb87ac7-9cd4-4e12-a0a7-e10ddef6161f)
+![IMG-20241005-WA0021](https://github.com/user-attachments/assets/d9906374-b61a-4979-a7b6-65f783243588)
+
+
+
+![IMG-20241005-WA0022](https://github.com/user-attachments/assets/7449b4ff-7af1-4682-b319-6e57c05946f0)
+
+
+
+![IMG-20241005-WA0023](https://github.com/user-attachments/assets/cd458738-d088-4a78-9be6-158c4187fc89)
+
+
+
+![IMG-20241005-WA0024](https://github.com/user-attachments/assets/79ddc5dd-7be0-4198-872b-98b1710cc0cf)
+
+
+
+![IMG-20241005-WA0025](https://github.com/user-attachments/assets/3d491f08-15fe-4b09-bcc8-a4daf376fc61)
 
 
 
 
-![IMG-20241005-WA0023](https://github.com/user-attachments/assets/2c1dba08-842d-49bf-beb1-bcbe557e0cf0)
 
 
-
-
-![IMG-20241005-WA0022](https://github.com/user-attachments/assets/63f1f42d-ed0c-46b0-a267-466635eb6423)
-
-
-
-
-![IMG-20241005-WA0021](https://github.com/user-attachments/assets/1dd2b4bf-6307-4a0c-b4c1-6b5b966a7e79)
-
-
-
-
-![IMG-20241005-WA0020](https://github.com/user-attachments/assets/2b6b3dfe-a793-45dc-9942-e4245d36efd7)
