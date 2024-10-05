@@ -11,11 +11,8 @@ These are some of thte screenshots taken from my app:
 
 
 
-
-
-
-
 ![IMG-20241005-WA0025](https://github.com/user-attachments/assets/50ad357b-757c-4663-af8c-e2155e3ddfe9)
+
 
 
 
@@ -23,7 +20,9 @@ These are some of thte screenshots taken from my app:
 
 
 
+
 ![IMG-20241005-WA0023](https://github.com/user-attachments/assets/2c1dba08-842d-49bf-beb1-bcbe557e0cf0)
+
 
 
 
@@ -31,7 +30,9 @@ These are some of thte screenshots taken from my app:
 
 
 
+
 ![IMG-20241005-WA0021](https://github.com/user-attachments/assets/1dd2b4bf-6307-4a0c-b4c1-6b5b966a7e79)
+
 
 
 
